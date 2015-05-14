@@ -1,0 +1,48 @@
+/** 
+  * Sx RSS Ticker - Styles file
+  * Author: Sabri El Gueder, www.sabri-elgueder.tn
+  * Version: 1.1
+  *
+  **/
+
+/** Tab settings **/
+.sx-ticker {
+	font-family: "din",Verdana,Geneva,sans-serif;
+	color: #513429;
+	position: relative;
+	margin-top:3px;
+}
+.sx-ticker ul {
+	margin:0 5px !important;
+	padding:0 !important;
+}
+.sx-ticker ul li {
+	list-style: none;
+	padding:0;
+	line-height:20px;
+	text-align:left;
+}
+.sx-ticker ul li a {
+    color: #513429;
+    font-size: 17px;
+	text-transform: none;
+}  
+
+/** Clearfix hack **/
+* html .srt-clearfix {
+	height: 1%;
+	overflow: visible;
+}
+/* float clearing for IE7 */
+*+html .srt-clearfix {
+	min-height: 1%;
+}
+/* float clearing for everyone else */
+.srt-clearfix:after {
+	clear: both;
+	content: ".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+	font-size: 0;
+}
