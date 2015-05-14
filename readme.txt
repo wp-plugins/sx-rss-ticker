@@ -50,8 +50,3 @@ e.g.
 
 = 1.0 =
 * First version. Final 14/05/2015
-
-== Arbitrary section ==
-
-
-== A brief Markdown Example ==
