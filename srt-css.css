@@ -1,30 +1,26 @@
 /** 
   * Sx RSS Ticker - Styles file
   * Author: Sabri El Gueder, www.sabri-elgueder.tn
-  * Version: 1.1
+  * Version: 2.0
   *
   **/
 
 /** Tab settings **/
-.sx-ticker {
-	font-family: "din",Verdana,Geneva,sans-serif;
-	color: #513429;
+.srt-bloc {
 	position: relative;
 	margin-top:3px;
 }
-.sx-ticker ul {
+.srt-bloc ul {
 	margin:0 5px !important;
 	padding:0 !important;
 }
-.sx-ticker ul li {
+.srt-bloc ul li {
 	list-style: none;
 	padding:0;
 	line-height:20px;
 	text-align:left;
 }
-.sx-ticker ul li a {
-    color: #513429;
-    font-size: 17px;
+.srt-bloc ul li a {
 	text-transform: none;
 }  
 
