@@ -16,11 +16,11 @@ Sx RSS Ticker allows you to place the contents of an RSS feed into your pages or
 
 [Sx RSS Ticker](http://www.redweb.tn/sx-rss-ticker-wordpress-plugin/) allows you to place the contents of an RSS feed into your pages or posts. It uses the jQuery easy ticker plugin to add a news ticker like effect to the RSS feeds. In the admin we have option to add the settings for links RSS feed. In the front end it will scroll the rss title with link and rss description.
 
-Check official website for more info [http://www.redweb.tn/sx-rss-ticker-wordpress-plugin](http://www.redweb.tn/sx-rss-ticker-wordpress-plugin)
+Check official website for
 
 *   [More info](http://www.redweb.tn/sx-rss-ticker-wordpress-plugin)					
 *   [Comments/Suggestion](http://www.redweb.tn/sx-rss-ticker-wordpress-plugin)			
-*   [About author](ttp://www.sabri-elgueder.tn/)				
+*   [About author](http://www.sabri-elgueder.tn/)				
 
 
 **Plugin Features**
@@ -43,7 +43,6 @@ Check official website for more info [http://www.redweb.tn/sx-rss-ticker-wordpre
 This section describes how to install the plugin and get it working.
 
 e.g.
-
 1. Upload `Sx RSS Ticker` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place [sx-rss-ticker url="http://url-to-your-rss" setting="1"]` in your templates
