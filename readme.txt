@@ -43,9 +43,10 @@ Check official website for
 This section describes how to install the plugin and get it working.
 
 e.g.
+
 1. Upload `Sx RSS Ticker` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place [sx-rss-ticker url="http://url-to-your-rss" setting="1"]` in your templates
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Place [sx-rss-ticker url="http://url-to-your-rss" setting="1"]` in your templates
 
 [Installation instruction and configuration](http://www.redweb.tn/sx-rss-ticker-wordpress-plugin)
 
